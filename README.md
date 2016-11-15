@@ -8,7 +8,7 @@ Another one is a research paper offers one way to solve similar problems that yo
 
 The question is how stressful life events influence the relationship between gene and depression. More specificly, you need to explore which genotype and what kind of enviroment could contribute the onset of depression.
 
-You could use any methods and lauguages to solve the problem. Original codes and a report about the question are required. You could upload them here.
+You could use any methods and lauguages to solve the problem. Original codes and a report about the question are required. Specific statistical methods and results in the report are needed to illustrate your conclutions. You could upload them here.
 
 Good luck.
 
